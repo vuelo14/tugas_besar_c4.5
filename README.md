@@ -9,5 +9,11 @@ pip install pandas matplotlib seaborn
 ``` bash
 pip install wordcloud
 ``` 
+``` bash
+pip install scikit-learn joblib
+``` 
+``` bash
+pip pip install nltk
+``` 
 
 2. 
