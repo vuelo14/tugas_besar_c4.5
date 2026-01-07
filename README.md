@@ -15,5 +15,8 @@ pip install scikit-learn joblib
 ``` bash
 pip pip install nltk
 ``` 
+``` bash
+pip install streamlit
+``` 
 
 2. 
